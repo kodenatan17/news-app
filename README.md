@@ -1,16 +1,31 @@
-# news_app
 
-A new Flutter project.
+# News App
 
-## Getting Started
+Aplikasi Berita terkini menggunakan Flutter dan Dart
+## Features
 
-This project is a starting point for a Flutter application.
+- News API
+- Responsive
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [@kodenatan17](https://www.github.com/kodenatan17)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter Clean
+
+```bash
+  flutter clean
+```
+
+Flutter Get all dependecies
+
+```bash
+  flutter pub get
+```
+
+Flutter Run
+
+```bash
+  flutter run
+```
